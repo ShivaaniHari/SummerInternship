@@ -8,4 +8,4 @@ Install the requirements after activating the environment:
 
 # Files
 
-lab-hfl.ipynb simulates horizontal FL using PyTorch. The corresponding VFL file, lab-vol.ipynb is also included. 
+lab-hfl.ipynb simulates horizontal FL using PyTorch. The corresponding VFL file, lab-vfl.ipynb is also included. 
